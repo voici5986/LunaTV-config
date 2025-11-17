@@ -43,11 +43,11 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-11-17 13:21 CST）
+## API 状态（最近更新：2025-11-17 14:32 CST）
 
 - 总 API 数量：77
-- 成功 API 数量：70
-- 失败 API 数量：7
+- 成功 API 数量：71
+- 失败 API 数量：6
 - 平均可用率：92.0%
 - 完美可用率（100%）：59 个
 - 高可用率（80%-99%）：12 个
@@ -118,7 +118,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | 🔞辣椒资源 | https://apilj.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| ❌ | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 99 | 1 | 99.0% | 1 |
+| ✅ | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬光速资源 | https://api.guangsuapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
