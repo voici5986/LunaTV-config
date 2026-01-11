@@ -43,11 +43,11 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-11 16:29 CST）
+## API 状态（最近更新：2026-01-11 17:23 CST）
 
 - 总 API 数量：77
-- 成功 API 数量：68
-- 失败 API 数量：9
+- 成功 API 数量：69
+- 失败 API 数量：8
 - 平均可用率：88.7%
 - 完美可用率（100%）：44 个
 - 高可用率（80%-99%）：25 个
@@ -109,7 +109,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | 🎬卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ❌ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
+| ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞丝袜资源 | https://siwazyw.tv/api.php/provide/vod/at/json | 99 | 1 | 99.0% | 0 |
